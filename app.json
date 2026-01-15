@@ -1,9 +1,7 @@
 {
   "expo": {
-    "extra": {
-      "eas": {
-        "projectId": "a283d148-e958-40ab-a233-868658515051"
-      }
-    }
+    "name": "Delivery App",
+    "slug": "delivery-app",
+    "version": "1.0.0"
   }
 }
